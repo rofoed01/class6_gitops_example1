@@ -1,0 +1,6 @@
+name = kirkland theo
+class = class 4
+country of origin = USA
+
+her @ = alexaaa_narvaez
+her country = colombia
